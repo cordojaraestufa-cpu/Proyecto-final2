@@ -3,7 +3,7 @@ Correo único: estudiante@edunexus.edu o docente@edunexus.edu (según la pestañ
 
 Contraseña única: EduNexus2026*
 
-Explicacion del taller del 20%
+Explicacion del taller del 20%..
 LINK DEL REPOSITORIO
 https://github.com/cordojaraestufa-cpu/Proyecto-final2
 
